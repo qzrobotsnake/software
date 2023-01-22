@@ -2,11 +2,11 @@
  * @Author: snake qzrobot_snake@outlook.com
  * @Date: 2022-12-31 15:35:10
  * @LastEditors: snake qzrobot_snake@outlook.com
- * @LastEditTime: 2023-01-22 11:40:08
+ * @LastEditTime: 2023-01-22 12:07:05
  * @FilePath: \software\software\c++.md
 -->
 # c++配置
-## 下载[MYS64](),它提供clang、MINGW等编程套件
+## 下载[MYS64](https://download.csdn.net/download/cz20101010/87356492?spm=1001.2014.3001.5501),它提供clang、MINGW等编程套件
 ![](../pic/MYS64_1.png)
 ### 下一步
 ---
