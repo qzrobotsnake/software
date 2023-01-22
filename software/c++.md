@@ -2,7 +2,7 @@
  * @Author: snake qzrobot_snake@outlook.com
  * @Date: 2022-12-31 15:35:10
  * @LastEditors: snake qzrobot_snake@outlook.com
- * @LastEditTime: 2022-12-31 16:09:23
+ * @LastEditTime: 2023-01-22 11:40:08
  * @FilePath: \software\software\c++.md
 -->
 # c++配置
@@ -33,5 +33,5 @@ pacman -Syu
 ![](../pic/MYS64_7.png)
 ### 大概就是这样
 ### 中途有选项选y
-### 完成!
+### 完成
 ---
