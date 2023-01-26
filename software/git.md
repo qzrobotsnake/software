@@ -1,3 +1,10 @@
+<!--
+ * @Author: snake qzrobot_snake@outlook.com
+ * @Date: 2023-01-22 11:43:10
+ * @LastEditors: snake qzrobot_snake@outlook.com
+ * @LastEditTime: 2023-01-26 11:00:26
+ * @FilePath: \software\software\git.md
+-->
 # Git下载安装
 ## [我发布在csdn上的Git下载文件](https://download.csdn.net/download/cz20101010/87356159)
 ## 下载下来之后，双击点开
@@ -14,7 +21,7 @@ Associate .git* configureation files with the default text editor 将.git文件�
 Associate .sh files to be run with Bash 关联.sh文件Bash中运行
 Check daily for Git for Windows updates 每天检查Git更新
 (NEW!)Add a Git Bash Profile to Windows Terminal 将GitBash关联到Windows terminal
-(New!)Scalar(Git add-on ro manage large-scale ##repositories) 使用Scalar(Git大文件管理插件)
+(New!)Scalar(Git add-on ro manage large-scale repositories) 使用Scalar(Git大文件管理插件)
 ```
 ## 建议全勾起来
 ---
